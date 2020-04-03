@@ -1,3 +1,6 @@
+This is code accompanying the paper "Semi-parametric resampling with extremes" by T. Opitz, D. Allard, G. Mariéthoz.
+
+
 The code in naive-resampling.R contains several illustrative examples of the naive resampling procedure. 
 
 
